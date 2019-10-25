@@ -40,3 +40,5 @@ ctrl + alt + v = cria varial local
 ctrl + alt + c = criar contantes.
 
 ctrl + alt + t = menu para seleção de estruturas. 
+
+ctrl + j = mostra menu de templates
